@@ -1,0 +1,2 @@
+D:\c primer plus\练习\c99块规则\Debug\c99块规则.exe
+D:\c primer plus\练习\c99块规则\Debug\c99块规则.pdb

@@ -1,0 +1,2 @@
+D:\c primer plus\练习\贪吃蛇1.0\Debug\贪吃蛇1.0.exe
+D:\c primer plus\练习\贪吃蛇1.0\Debug\贪吃蛇1.0.pdb

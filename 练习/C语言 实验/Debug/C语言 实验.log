@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\c primer plus\练习\C语言 实验\源.cpp(8,7): warning C4101: “shots”: 未引用的局部变量
+D:\c primer plus\练习\C语言 实验\源.cpp(7,8): warning C4101: “clops”: 未引用的局部变量
+  C语言 实验.vcxproj -> D:\c primer plus\练习\C语言 实验\Debug\C语言 实验.exe

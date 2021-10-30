@@ -1,0 +1,2 @@
+D:\c primer plus\练习\C语言 李静琳1.2\Debug\C语言 李静琳 2.exe
+D:\c primer plus\练习\C语言 李静琳1.2\Debug\C语言 李静琳 2.pdb

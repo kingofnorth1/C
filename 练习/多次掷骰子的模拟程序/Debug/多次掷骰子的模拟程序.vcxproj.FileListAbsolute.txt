@@ -1,0 +1,2 @@
+D:\c primer plus\练习\多次掷骰子的模拟程序\Debug\多次掷骰子的模拟程序.exe
+D:\c primer plus\练习\多次掷骰子的模拟程序\Debug\多次掷骰子的模拟程序.pdb

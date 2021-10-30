@@ -1,0 +1,2 @@
+D:\c primer plus\练习\第十三章 C语言 13.2.1\Debug\第十三章 C语言 13.2.1.exe
+D:\c primer plus\练习\第十三章 C语言 13.2.1\Debug\第十三章 C语言 13.2.1.pdb

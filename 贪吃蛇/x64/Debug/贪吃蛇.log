@@ -1,0 +1,3 @@
+﻿  snake.cpp
+D:\c primer plus和程序编写\贪吃蛇\snake.cpp(180): warning C4715: “snakebool”: 不是所有的控件路径都返回值
+  贪吃蛇.vcxproj -> D:\c primer plus和程序编写\贪吃蛇\x64\Debug\贪吃蛇.exe

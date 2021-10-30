@@ -1,0 +1,2 @@
+D:\c primer plus\练习\C语言 第六章zeno问题6.14\Debug\C语言 第六章zeno问题6.14.exe
+D:\c primer plus\练习\C语言 第六章zeno问题6.14\Debug\C语言 第六章zeno问题6.14.pdb

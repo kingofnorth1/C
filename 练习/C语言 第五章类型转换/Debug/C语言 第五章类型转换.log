@@ -1,0 +1,9 @@
+﻿E:\C语言\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(C语言 第五章类型转换.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+D:\c primer plus\练习\C语言 第五章类型转换\源.cpp(7,9): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\c primer plus\练习\C语言 第五章类型转换\源.cpp(10,9): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\c primer plus\练习\C语言 第五章类型转换\源.cpp(11,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\c primer plus\练习\C语言 第五章类型转换\源.cpp(13,11): warning C4305: “=”: 从“int”到“char”截断
+D:\c primer plus\练习\C语言 第五章类型转换\源.cpp(13,7): warning C4309: “=”: 截断常量值
+D:\c primer plus\练习\C语言 第五章类型转换\源.cpp(15,7): warning C4244: “=”: 从“double”转换到“char”，可能丢失数据
+  C语言 第五章类型转换.vcxproj -> D:\c primer plus\练习\C语言 第五章类型转换\Debug\C语言 第五章类型转换5.14.exe

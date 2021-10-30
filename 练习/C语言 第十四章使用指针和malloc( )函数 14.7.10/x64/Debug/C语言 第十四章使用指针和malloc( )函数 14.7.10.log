@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\c primer plus\练习\C语言 第十四章使用指针和malloc( )函数 14.7.10\源.cpp(45,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  C语言 第十四章使用指针和malloc( )函数 14.7.10.vcxproj -> D:\c primer plus\练习\C语言 第十四章使用指针和malloc( )函数 14.7.10\x64\Debug\C语言 第十四章使用指针和malloc( )函数 14.7.10.exe

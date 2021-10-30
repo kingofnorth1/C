@@ -1,0 +1,2 @@
+D:\c primer plus\练习\C语言 第十一章gets( )函数 11.2.6\Debug\C语言 第十一章gets( )函数 11.2.6.exe
+D:\c primer plus\练习\C语言 第十一章gets( )函数 11.2.6\Debug\C语言 第十一章gets( )函数 11.2.6.pdb

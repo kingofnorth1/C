@@ -1,0 +1,2 @@
+D:\c primer plus\练习\C语言 第六章嵌套变式6.10.2\Debug\C语言 第六章嵌套变式6.10.2.exe
+D:\c primer plus\练习\C语言 第六章嵌套变式6.10.2\Debug\C语言 第六章嵌套变式6.10.2.pdb

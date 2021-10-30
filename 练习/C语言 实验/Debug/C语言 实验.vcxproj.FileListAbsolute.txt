@@ -1,0 +1,2 @@
+D:\c primer plus\练习\C语言 实验\Debug\C语言 实验.exe
+D:\c primer plus\练习\C语言 实验\Debug\C语言 实验.pdb

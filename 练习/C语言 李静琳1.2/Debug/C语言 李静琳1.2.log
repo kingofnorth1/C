@@ -1,0 +1,4 @@
+﻿E:\C语言\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(C语言 李静琳1.2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+D:\c primer plus\练习\C语言 李静琳1.2\源.cpp(8,30): warning C4101: “num”: 未引用的局部变量
+  C语言 李静琳1.2.vcxproj -> D:\c primer plus\练习\C语言 李静琳1.2\Debug\C语言 李静琳 2.exe

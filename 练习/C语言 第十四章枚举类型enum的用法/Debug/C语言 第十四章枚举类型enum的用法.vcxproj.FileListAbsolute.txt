@@ -1,0 +1,2 @@
+D:\c primer plus\练习\C语言 第十四章枚举类型enum的用法\Debug\C语言 第十四章枚举类型enum的用法.exe
+D:\c primer plus\练习\C语言 第十四章枚举类型enum的用法\Debug\C语言 第十四章枚举类型enum的用法.pdb

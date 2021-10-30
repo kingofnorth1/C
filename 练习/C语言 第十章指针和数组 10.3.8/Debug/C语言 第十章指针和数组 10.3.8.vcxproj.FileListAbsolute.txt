@@ -1,0 +1,2 @@
+D:\c primer plus\练习\C语言 第十章指针和数组 10.3.8\Debug\C语言 第十章指针和数组 10.3.8.exe
+D:\c primer plus\练习\C语言 第十章指针和数组 10.3.8\Debug\C语言 第十章指针和数组 10.3.8.pdb

@@ -1,0 +1,7 @@
+﻿  源.cpp
+D:\c primer plus\练习\C语言 第十四章枚举类型enum的用法\源.cpp(29,4): warning C4808: case“2”不是类型“bool”的切换条件的有效值
+D:\c primer plus\练习\C语言 第十四章枚举类型enum的用法\源.cpp(31,4): warning C4808: case“3”不是类型“bool”的切换条件的有效值
+D:\c primer plus\练习\C语言 第十四章枚举类型enum的用法\源.cpp(33,4): warning C4808: case“4”不是类型“bool”的切换条件的有效值
+D:\c primer plus\练习\C语言 第十四章枚举类型enum的用法\源.cpp(35,4): warning C4808: case“5”不是类型“bool”的切换条件的有效值
+D:\c primer plus\练习\C语言 第十四章枚举类型enum的用法\源.cpp(12,16): warning C4101: “color”: 未引用的局部变量
+  C语言 第十四章枚举类型enum的用法.vcxproj -> D:\c primer plus\练习\C语言 第十四章枚举类型enum的用法\Debug\C语言 第十四章枚举类型enum的用法.exe

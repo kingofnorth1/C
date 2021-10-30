@@ -1,0 +1,4 @@
+D:\c primer plus\练习\C语言 第8章1\x64\Debug\C语言 第8章1.exe
+D:\c primer plus\练习\C语言 第8章1\x64\Debug\C语言 第8章1.pdb
+D:\c primer plus\练习\C语言 第八章重定向8.4\x64\Debug\C语言 第8章1.exe
+D:\c primer plus\练习\C语言 第八章重定向8.4\x64\Debug\C语言 第8章1.pdb

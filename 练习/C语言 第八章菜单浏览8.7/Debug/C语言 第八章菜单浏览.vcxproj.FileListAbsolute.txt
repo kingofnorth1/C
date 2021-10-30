@@ -1,0 +1,2 @@
+D:\c primer plus\练习\C语言 第八章菜单浏览8.7\Debug\C语言 第八章菜单浏览.exe
+D:\c primer plus\练习\C语言 第八章菜单浏览8.7\Debug\C语言 第八章菜单浏览.pdb

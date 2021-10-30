@@ -1,0 +1,2 @@
+D:\c primer plus\练习\C语言 第十四章使用指针和malloc( )函数 14.7.10\x64\Debug\C语言 第十四章使用指针和malloc( )函数 14.7.10.exe
+D:\c primer plus\练习\C语言 第十四章使用指针和malloc( )函数 14.7.10\x64\Debug\C语言 第十四章使用指针和malloc( )函数 14.7.10.pdb

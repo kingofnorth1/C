@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\c primer plus和程序编写\中国象棋\源.cpp(88,32): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\c primer plus和程序编写\中国象棋\源.cpp(124,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  中国象棋.vcxproj -> D:\c primer plus和程序编写\中国象棋\Debug\中国象棋.exe

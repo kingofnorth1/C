@@ -1,0 +1,4 @@
+﻿E:\C语言\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(实验2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+D:\c primer plus\练习\实验2\源.cpp(8,6): error C4996: 'cscanf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cscanf. See online help for details.
+D:\c primer plus\练习\实验2\源.cpp(9,2): error C4996: 'cprintf': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _cprintf. See online help for details.

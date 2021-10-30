@@ -1,0 +1,2 @@
+D:\c primer plus\练习\C语言 第五章带参数的函数5.15\Debug\C语言 第五章带参数的函数5.15.exe
+D:\c primer plus\练习\C语言 第五章带参数的函数5.15\Debug\C语言 第五章带参数的函数5.15.pdb

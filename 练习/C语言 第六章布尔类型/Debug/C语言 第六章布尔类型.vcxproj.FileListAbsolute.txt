@@ -1,0 +1,2 @@
+D:\c primer plus\练习\C语言 第六章布尔类型\Debug\C语言 第六章布尔类型.exe
+D:\c primer plus\练习\C语言 第六章布尔类型\Debug\C语言 第六章布尔类型.pdb
